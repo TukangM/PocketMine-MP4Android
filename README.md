@@ -53,8 +53,15 @@ basicly playit-linux-aarch64 didn't run very well on android environment, need m
 If you decide to uninstall this module, note that the pmmp folder will not be removed. This is done to ensure that users of this module do not lose their world data, plugins, and server.properties.
 
 ## Updating
+<details>
+
+<summary>old Updating docs</summary>
 If you want to update the PHP8 binaries and PocketMine-MP, you can simply update the module to the latest version. Future versions will include an update script (start-pmmp-update) to facilitate the update of the PocketMine-MP.phar binary only.
 php8 using precompiled binary from here [TukangM/php8-aarch64-builds](https://github.com/TukangM/php8-aarch64-builds)
+</details>
+
+Now PocketMine-MP.phar can now be update with `update-pmmp` or run `/data/local/pmmp/update.sh`
+
 
 ## License
 PocketMine-MP has [LGPL-3.0-1-ov-file](https://github.com/pmmp/PocketMine-MP?tab=LGPL-3.0-1-ov-file#readme) <br/>
