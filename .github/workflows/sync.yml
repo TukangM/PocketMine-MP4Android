@@ -1,9 +1,10 @@
 name: Sync Files
 on:
-  push:
-    branches:
-      - master
-  workflow_dispatch:
+    push:
+      branches: "**"
+    pull_request:
+    workflow_dispatch:
+  
 jobs:
   sync:
     runs-on: ubuntu-latest
