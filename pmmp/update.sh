@@ -10,6 +10,7 @@ echo "                                                                          
 echo "                                                                                                                  "
 echo "                              https://github.com/TukangM/PocketMine-MP4Android                                    "
 echo "                                   Made with AI generated chat.openai.com                                         "
+echo "              do not forget to install busybox magisk module! wget fuction used to download pocketmine            "
 
 # Variabel | Variable
 MODDIR=${0%/*}
