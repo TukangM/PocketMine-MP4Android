@@ -1,4 +1,5 @@
-# [PocketMine-MP](https://github.com/pmmp/PocketMine-MP)[4Android](https://github.com/TukangM/PocketMine-MP4Android)
+# [PocketMine-MP](https://github.com/pmmp/PocketMine-MP)[4Android](https://github.com/TukangM/PocketMine-MP4Android) archived
+# PocketMine-MP4Android was moved to new repositories ! https://github.com/Magisk-Modules-Alt-Repo/PocketMine-MP4Android
 Run Minecraft Bedrock edition on android 
 <details>
 <summary>Click to expand to see screenshoots</summary>
